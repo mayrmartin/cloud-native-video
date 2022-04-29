@@ -1,0 +1,6 @@
+export const bucketConfig = {};
+export const awsSecrets = {
+  region: "",
+  accessKeyId: "",
+  secretAccessKey: "",
+};
